@@ -1,6 +1,4 @@
 import React  from "react";
-//API
-import API from  '../API';
 
 
 
